@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263096447495",
+    "firebase_url": "https://flash-chat-d4ccc.firebaseio.com",
+    "project_id": "flash-chat-d4ccc",
+    "storage_bucket": "flash-chat-d4ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263096447495:android:04da11ac0bbb9d7a1630a2",
+        "android_client_info": {
+          "package_name": "co.joaofbvieira.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263096447495-oglaahbe3d8o0k14h85qrtbct8bnrjlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbdZXtO7xvkzgN24HG2q9EVXYP_VKfiUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263096447495-oglaahbe3d8o0k14h85qrtbct8bnrjlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
